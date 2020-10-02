@@ -1,6 +1,6 @@
 # filetree
 
-Hello and welcome to the [r/datacurator](https://reddit.com/r/datacurator) filetree repository.
+Hello and welcome to my fork of the [r/datacurator](https://reddit.com/r/datacurator) filetree repository.
 
 We aim to create a unified filetree for all kinds of data, which should help in storing, categorising and retrieving.
 
@@ -21,15 +21,6 @@ You are now looking at the default full-blown filetree. Often times you don't ne
 > Note: If you think we are missing a (common) scenario, feel free to open an issue and request it.
 >
 > We will try to review and incorporate it here.
-
-
-
-
-## Overview
-
-Here is a quick screenshot on what the current tree looks like (occasionally updated).
-
-![](overview.png)
 
 
 
